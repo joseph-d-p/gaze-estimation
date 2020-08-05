@@ -33,7 +33,7 @@ $ pip3 -r install requirements.txt
     export MODEL_DOWNLOADER_PATH=/opt/intel/openvino_2020.3.194/deployment_tools/tools/model_downloader
     ```
 
-    2.1 **Face detection model**
+    3.1 **Face detection model**
 
     ```
     $> $MODEL_DOWNLOADER_PATH/downloader.py \
